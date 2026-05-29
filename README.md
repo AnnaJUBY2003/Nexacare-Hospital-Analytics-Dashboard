@@ -2,6 +2,9 @@
 
 End-to-end Hospital Analytics dashboard built in Power BI using a Snowflake-Star Hybrid Data Model. Provides insights into patient admissions, OPD performance, revenue, bed occupancy, pharmacy inventory, and hospital operations through interactive visualizations and DAX-driven analytics.
 
+## Power BI File
+[Download PBIX File]([https://drive.google.com/your-link](https://drive.google.com/file/d/1FJ7Mhwlq2JxJ9MM6Y9RcAI2pKtYrxShx/view?usp=drive_link))
+
 ## Key Features
 - Executive KPI Dashboard
 - Revenue & Billing Analysis
