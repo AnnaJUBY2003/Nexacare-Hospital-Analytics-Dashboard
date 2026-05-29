@@ -1,0 +1,26 @@
+test_id,test_name,test_category,standard_cost,department_id
+1,Complete Blood Count (CBC),Lab,350,4
+2,Blood Glucose Fasting,Lab,120,9
+3,Lipid Profile,Lab,450,2
+4,Liver Function Test,Lab,500,19
+5,Kidney Function Test,Lab,480,8
+6,ECG,Cardiology,200,2
+7,Echocardiogram,Cardiology,1500,2
+8,CT Scan Brain,Radiology,3500,3
+9,MRI Brain,Radiology,6000,3
+10,X-Ray Chest,Radiology,300,5
+11,Sputum Culture,Lab,400,5
+12,Urine Culture,Lab,350,8
+13,Dengue NS1 Antigen,Lab,600,4
+14,Malaria Antigen Test,Lab,350,4
+15,COVID RT-PCR,Lab,800,4
+16,HbA1c,Lab,350,9
+17,Thyroid Function Test,Lab,550,9
+18,Bone Density Scan,Radiology,2500,7
+19,Ultrasound Abdomen,Radiology,800,19
+20,Upper GI Endoscopy,Gastroenterology,2500,19
+21,Colonoscopy,Gastroenterology,3000,19
+22,Coagulation Profile,Lab,500,11
+23,HIV Test,Lab,300,4
+24,Hepatitis Panel,Lab,600,19
+25,PSA Test,Lab,500,18

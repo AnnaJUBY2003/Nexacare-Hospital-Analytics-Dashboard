@@ -1,0 +1,105 @@
+doctor_id,employee_id,doctor_name,department_id,qualification,specialization,years_of_experience,consultation_fee,joining_date,employment_status,max_daily_patients,clinic_start_time,clinic_end_time
+1,1,Lakshmi Menon,5,"MBBS, MS",Pulmonology,15,800,2010-12-10,Active,27,10:00,18:00
+2,2,Ajas Ismail,3,"MBBS, DM",Neurology,10,900,2015-01-08,Active,21,10:00,18:00
+3,3,Kiran Pai,1,"MBBS, MS",Emergency Medicine,7,600,2018-02-12,Active,37,10:00,18:00
+4,4,Binu Cherian,4,"MBBS, DNB",Internal Medicine,3,700,2022-12-10,Active,34,11:00,19:00
+5,5,Deepak Das,2,"MBBS, MD",Cardiology,7,900,2018-08-03,On Leave,27,09:00,17:00
+6,6,Tony Kuriakose,7,"MBBS, DNB",Orthopedics,13,850,2012-01-12,On Leave,22,10:00,18:00
+7,7,Anas Rahman,8,"MBBS, MD",Nephrology,17,800,2008-06-28,Active,26,09:00,17:00
+8,8,Jaison Fernandez,10,"MBBS, MD",Pediatrics,7,650,2018-04-11,Active,39,09:00,17:00
+9,9,Anand Warrier,10,"MBBS, MD",Pediatrics,18,650,2007-01-22,Active,42,09:00,17:00
+10,10,Abhijith Pereira,20,"MBBS, MD",Rheumatology,13,800,2012-08-17,On Leave,26,10:00,18:00
+11,11,Rashid Moideen,3,"MBBS, DM",Neurology,20,900,2005-05-29,Active,19,10:00,18:00
+12,12,Shafi Hameed,5,"MBBS, MS",Pulmonology,19,800,2006-12-28,Active,31,11:00,19:00
+13,13,Noora Latheef,16,"MBBS, DNB",Psychiatry,15,700,2010-05-17,On Leave,23,11:00,19:00
+14,14,Albin Varghese,4,"MBBS, MS",Internal Medicine,20,700,2005-08-01,Active,41,09:00,17:00
+15,15,Nithin Cherian,16,"MBBS, DNB",Psychiatry,17,700,2008-11-19,Active,28,10:00,18:00
+16,16,Albin Varghese,8,"MBBS, DNB",Nephrology,15,800,2010-01-30,Active,19,10:00,18:00
+17,17,Sarath Nair,2,"MBBS, DNB",Cardiology,3,900,2023-01-01,Active,19,09:00,17:00
+18,18,Ajas Koya,12,"MBBS, MD",Oncology,7,1000,2018-02-08,Active,22,09:00,17:00
+19,19,Sameer Hameed,12,"MBBS, MD",Oncology,19,1000,2006-06-03,On Leave,26,09:00,17:00
+20,20,Deepak Pai,4,"MBBS, MD",Internal Medicine,14,700,2011-04-20,Active,32,10:00,18:00
+21,21,Aysha Koya,6,"MBBS, DNB",General Surgery,18,850,2007-11-13,On Leave,25,11:00,19:00
+22,22,Rohit K.,1,"MBBS, DNB",Emergency Medicine,16,600,2010-01-03,Active,35,09:00,17:00
+23,23,Grace Thomas,11,"MBBS, DM",Hematology,13,850,2012-03-08,On Leave,21,09:00,17:00
+24,24,Hiba Basheer,11,"MBBS, DNB",Hematology,3,850,2022-01-31,Active,19,10:00,18:00
+25,25,Anas Basheer,8,"MBBS, MD",Nephrology,10,800,2015-10-25,Active,28,11:00,19:00
+26,26,Binu Philip,7,"MBBS, MCh",Orthopedics,14,850,2011-08-15,Active,20,10:00,18:00
+27,27,Deepak Kumar,1,"MBBS, DNB",Emergency Medicine,19,600,2006-08-14,Active,30,10:00,18:00
+28,28,Binu Kuriakose,2,"MBBS, DM",Cardiology,15,900,2010-08-09,Active,18,09:00,17:00
+29,29,Divya Pai,11,"MBBS, MD",Hematology,19,850,2006-06-12,Active,29,09:00,17:00
+30,30,Elsa Kuriakose,9,"MBBS, DM",Endocrinology,9,750,2016-12-16,On Leave,21,10:00,18:00
+31,31,Rijo Kuriakose,4,"MBBS, DNB",Internal Medicine,20,700,2005-04-27,Active,37,09:00,17:00
+32,32,Niyas Shafi,2,"MBBS, MD",Cardiology,9,900,2016-08-20,Active,22,09:00,17:00
+33,33,Abhijith Philip,9,"MBBS, DNB",Endocrinology,14,750,2011-09-21,Active,20,11:00,19:00
+34,34,Meera M.,5,"MBBS, DNB",Pulmonology,18,800,2007-05-12,On Leave,18,09:00,17:00
+35,35,Rahul M.,20,"MBBS, DNB",Rheumatology,6,800,2019-02-07,Active,28,09:00,17:00
+36,36,Elsa Pereira,4,"MBBS, MD",Internal Medicine,9,700,2016-11-28,Active,40,11:00,19:00
+37,37,Lakshmi M.,10,"MBBS, MD",Pediatrics,9,650,2016-11-01,Active,31,09:00,17:00
+38,38,Albin Varghese,1,"MBBS, DNB",Emergency Medicine,17,600,2008-10-27,Active,34,10:00,18:00
+39,39,Shahid Shafi,3,"MBBS, DM",Neurology,6,900,2019-05-09,Active,28,09:00,17:00
+40,40,Deepak Kurup,16,"MBBS, DNB",Psychiatry,14,700,2011-03-05,On Leave,24,09:00,17:00
+41,41,Noora Basheer,8,"MBBS, DM",Nephrology,17,800,2008-01-27,Active,26,10:00,18:00
+42,42,Divya R.,2,"MBBS, DM",Cardiology,8,900,2017-06-10,Active,22,09:00,17:00
+43,43,Binu Varghese,1,"MBBS, MS",Emergency Medicine,8,600,2017-10-17,Active,38,10:00,18:00
+44,44,Vishnu S.,9,"MBBS, DM",Endocrinology,6,750,2019-05-23,Active,26,10:00,18:00
+45,45,Manu Shetty,2,"MBBS, MD",Cardiology,17,900,2008-12-22,Active,22,09:00,17:00
+46,46,Shafi Rahman,2,"MBBS, DM",Cardiology,10,900,2016-01-02,Active,21,10:00,18:00
+47,47,Arya Kurup,10,"MBBS, DNB",Pediatrics,14,650,2011-07-26,Active,36,09:00,17:00
+48,48,Deepak Chandra,7,"MBBS, MCh",Orthopedics,7,850,2018-12-16,Active,28,09:00,17:00
+49,49,Divya Chandra,9,"MBBS, DNB",Endocrinology,7,750,2018-10-12,Active,27,09:00,17:00
+50,50,Suresh Paul,4,"MBBS, DNB",Internal Medicine,17,700,2008-04-18,Active,36,09:00,17:00
+51,51,Tony Fernandez,5,"MBBS, DNB",Pulmonology,16,800,2009-03-29,Active,29,09:00,17:00
+52,52,Shahid Moideen,4,"MBBS, DNB",Internal Medicine,10,700,2015-05-09,On Leave,37,10:00,18:00
+53,53,Sameer Shafi,1,"MBBS, MD",Emergency Medicine,9,600,2016-11-14,Active,39,09:00,17:00
+54,54,Deepak S.,20,"MBBS, MD",Rheumatology,12,800,2013-03-30,Active,23,09:00,17:00
+55,55,Ajas Hameed,8,"MBBS, DM",Nephrology,18,800,2007-03-28,Active,26,10:00,18:00
+56,56,Deepak Shetty,19,"MBBS, DNB",Gastroenterology,11,850,2014-07-19,Active,20,09:00,17:00
+57,57,Nithin Thomas,9,"MBBS, MD",Endocrinology,19,750,2006-07-21,Active,27,09:00,17:00
+58,58,Albin Paul,6,"MBBS, DNB",General Surgery,4,850,2021-12-19,Active,21,09:00,17:00
+59,59,Amina Shafi,5,"MBBS, MS",Pulmonology,10,800,2015-04-07,Active,24,09:00,17:00
+60,60,Ajith Chandra,11,"MBBS, DM",Hematology,20,850,2005-09-26,On Leave,23,09:00,17:00
+61,61,Niyas Ali,4,"MBBS, MS",Internal Medicine,16,700,2009-03-15,Active,31,09:00,17:00
+62,62,Ajas Shafi,3,"MBBS, MD",Neurology,20,900,2005-04-18,Active,24,09:00,17:00
+63,63,Noora Koya,7,"MBBS, DNB",Orthopedics,14,850,2011-11-30,Active,21,09:00,17:00
+64,64,Manu Varma,4,"MBBS, DNB",Internal Medicine,12,700,2013-02-03,Active,36,10:00,18:00
+65,65,Rahul M.,1,"MBBS, DNB",Emergency Medicine,6,600,2019-01-06,Active,44,09:00,17:00
+66,66,Faisal Basheer,3,"MBBS, MD",Neurology,6,900,2019-05-17,On Leave,19,10:00,18:00
+67,67,Noora Latheef,4,"MBBS, MD",Internal Medicine,9,700,2016-04-22,Active,34,09:00,17:00
+68,68,Meera Nair,8,"MBBS, DNB",Nephrology,6,800,2019-08-05,Active,28,09:00,17:00
+69,69,Abhijith Philip,2,"MBBS, DNB",Cardiology,5,900,2020-10-21,Active,30,09:00,17:00
+70,70,Fathima Basheer,3,"MBBS, MD",Neurology,4,900,2021-06-06,Active,28,11:00,19:00
+71,71,Shahid Moideen,10,"MBBS, MD",Pediatrics,18,650,2007-05-28,Active,40,09:00,17:00
+72,72,Sameer Shafi,7,"MBBS, MCh",Orthopedics,13,850,2012-02-28,Active,25,10:00,18:00
+73,73,Rashid Moideen,5,"MBBS, DNB",Pulmonology,6,800,2019-10-02,Active,20,09:00,17:00
+74,74,Manu Shetty,4,"MBBS, MS",Internal Medicine,4,700,2021-05-21,On Leave,39,10:00,18:00
+75,75,Shafi Hameed,4,"MBBS, DNB",Internal Medicine,17,700,2008-08-27,Active,39,09:00,17:00
+76,76,Suresh Fernandez,9,"MBBS, DM",Endocrinology,20,750,2005-12-10,Active,27,11:00,19:00
+77,77,Aysha Shafi,9,"MBBS, DNB",Endocrinology,3,750,2022-09-29,Active,22,10:00,18:00
+78,78,Faisal Rahman,19,"MBBS, DM",Gastroenterology,10,850,2015-07-25,Active,26,09:00,17:00
+79,79,Kiran M.,2,"MBBS, MD",Cardiology,3,900,2022-03-06,Active,21,10:00,18:00
+80,80,Lakshmi S.,3,"MBBS, DNB",Neurology,11,900,2014-08-15,On Leave,27,09:00,17:00
+81,81,Liya Fernandez,11,"MBBS, MD",Hematology,15,850,2010-11-17,Active,19,10:00,18:00
+82,82,Fathima Hameed,10,"MBBS, MS",Pediatrics,18,650,2007-06-29,Active,33,10:00,18:00
+83,83,Albin Philip,3,"MBBS, DM",Neurology,15,900,2010-11-07,On Leave,29,11:00,19:00
+84,84,Rohit Shetty,4,"MBBS, DNB",Internal Medicine,11,700,2014-05-22,Active,31,10:00,18:00
+85,85,Rohit Varma,10,"MBBS, DNB",Pediatrics,9,650,2016-07-26,Active,36,10:00,18:00
+86,86,Rashid Moideen,5,"MBBS, MD",Pulmonology,7,800,2018-07-12,On Leave,26,09:00,17:00
+87,87,Lakshmi M.,10,"MBBS, MS",Pediatrics,13,650,2012-11-01,Active,33,09:00,17:00
+88,88,Arya R.,3,"MBBS, DM",Neurology,6,900,2019-08-17,Active,19,09:00,17:00
+89,89,Nithin Thomas,4,"MBBS, DNB",Internal Medicine,6,700,2019-02-02,Active,33,09:00,17:00
+90,90,Binu Pereira,20,"MBBS, DNB",Rheumatology,5,800,2020-10-10,Active,31,10:00,18:00
+91,91,Suresh Joseph,6,"MBBS, DNB",General Surgery,10,850,2015-11-11,Active,24,09:00,17:00
+92,92,Shahid Moideen,9,"MBBS, DM",Endocrinology,10,750,2015-08-06,Active,23,11:00,19:00
+93,93,Anand K.,7,"MBBS, DNB",Orthopedics,20,850,2005-09-16,Active,23,09:00,17:00
+94,94,Vishnu Menon,19,"MBBS, MD",Gastroenterology,8,850,2017-11-02,Active,21,10:00,18:00
+95,95,Kiran Nair,10,"MBBS, DNB",Pediatrics,9,650,2016-06-24,Active,43,09:00,17:00
+96,96,Sarath Pillai,3,"MBBS, DNB",Neurology,10,900,2015-12-31,Active,20,10:00,18:00
+97,97,Ajas Moideen,8,"MBBS, MD",Nephrology,13,800,2012-12-11,Active,26,10:00,18:00
+98,98,Nithin Varghese,6,"MBBS, MCh",General Surgery,11,850,2014-07-30,Active,18,09:00,17:00
+99,99,Lakshmi Pillai,12,"MBBS, DM",Oncology,20,1000,2005-06-23,Active,29,10:00,18:00
+100,100,Sarath K.,2,"MBBS, MD",Cardiology,20,900,2005-11-03,Active,19,09:00,17:00
+101,101,Elsa Mathew,12,"MBBS, MD",Oncology,9,1000,2016-04-16,Active,26,09:00,17:00
+102,102,Binu Kuriakose,11,"MBBS, DNB",Hematology,7,850,2018-01-15,Active,27,09:00,17:00
+103,103,Amina Ali,8,"MBBS, DNB",Nephrology,4,800,2021-07-18,On Leave,24,09:00,17:00
+104,104,Divya Das,5,"MBBS, MS",Pulmonology,3,800,2022-01-06,Active,28,10:00,18:00

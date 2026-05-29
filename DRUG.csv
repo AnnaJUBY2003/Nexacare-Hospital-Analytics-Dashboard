@@ -1,0 +1,31 @@
+drug_id,drug_name,brand_name,drug_category,unit_cost,manufacturer_id
+1,Aspirin,Ecosprin,Antiplatelet,15,7
+2,Atorvastatin,Lipitor,Statin,45,8
+3,Clopidogrel,Plavix,Antiplatelet,38,9
+4,Metoprolol,Betaloc,Beta Blocker,22,3
+5,Alteplase,Activase,Thrombolytic,4500,6
+6,Levetiracetam,Keppra,Anticonvulsant,120,8
+7,Paracetamol,Crocin,Analgesic,5,4
+8,Ibuprofen,Brufen,NSAID,12,2
+9,Tramadol,Ultram,Analgesic,35,9
+10,Ceftriaxone,Rocephin,Antibiotic,180,5
+11,Azithromycin,Zithromax,Antibiotic,85,9
+12,Amoxicillin,Augmentin,Antibiotic,55,1
+13,Meropenem,Meronem,Antibiotic,650,1
+14,Salbutamol,Ventolin,Bronchodilator,28,7
+15,Budesonide,Pulmicort,Steroid,95,9
+16,Montelukast,Singulair,Leukotriene Inhibitor,75,4
+17,Insulin Glargine,Lantus,Antidiabetic,320,6
+18,Metformin,Glycomet,Antidiabetic,18,3
+19,Amlodipine,Norvasc,Calcium Channel Blocker,25,8
+20,Losartan,Cozaar,ARB,40,5
+21,Furosemide,Lasix,Diuretic,10,2
+22,Erythropoietin,Eprex,Erythropoiesis Stimulator,1200,7
+23,Morphine,MS Contin,Opioid Analgesic,180,4
+24,Ondansetron,Zofran,Antiemetic,22,9
+25,Pantoprazole,Pantodac,Proton Pump Inhibitor,18,6
+26,Dexamethasone,Decadron,Corticosteroid,35,3
+27,Heparin,Heparin,Anticoagulant,85,8
+28,Warfarin,Coumadin,Anticoagulant,15,2
+29,Hydroxychloroquine,Plaquenil,Antimalarial,45,5
+30,Prednisolone,Wysolone,Corticosteroid,12,9

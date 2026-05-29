@@ -1,0 +1,9 @@
+insurance_provider_id,provider_name,provider_type,contact_details,coverage_limit
+1,Star Health Insurance,Private,starhealth@example.com | 1800-425-2255,500000
+2,National Health Insurance,Government,nhi@example.com | 1800-111-0001,300000
+3,New India Assurance,Government,newinda@example.com | 1800-209-1415,400000
+4,HDFC ERGO Health,Private,hdfcergo@example.com | 1800-2-700-700,750000
+5,Bajaj Allianz Health,Private,bajaj@example.com | 1800-209-5858,600000
+6,Ayushman Bharat (PMJAY),Government,pmjay@example.com | 14555,250000
+7,Reliance Health Insurance,Private,reliance@example.com | 1800-3009,550000
+8,ICICI Lombard Health,Private,icici@example.com | 1800-2666,650000

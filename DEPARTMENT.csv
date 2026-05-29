@@ -1,0 +1,21 @@
+department_id,department_name,department_type,floor_number,status
+1,Emergency Medicine,Clinical,0,Active
+2,Cardiology,Clinical,2,Active
+3,Neurology,Clinical,3,Active
+4,Internal Medicine,Clinical,4,Active
+5,Pulmonology,Clinical,4,Active
+6,General Surgery,Surgical,5,Active
+7,Orthopedics,Surgical,6,Active
+8,Nephrology,Clinical,4,Active
+9,Endocrinology,Clinical,4,Active
+10,Pediatrics,Clinical,1,Active
+11,Hematology,Clinical,4,Active
+12,Oncology,Clinical,3,Active
+13,Dermatology,Clinical,2,Active
+14,Ophthalmology,Clinical,2,Active
+15,ENT,Clinical,2,Active
+16,Psychiatry,Clinical,5,Active
+17,Obstetrics & Gynecology,Clinical,1,Active
+18,Urology,Surgical,6,Active
+19,Gastroenterology,Clinical,4,Active
+20,Rheumatology,Clinical,3,Active
