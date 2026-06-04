@@ -7,7 +7,7 @@ End-to-end Hospital Analytics dashboard built in Power BI using a Snowflake-Star
 
 ## Dashboard Screenshot
 
-### Report pages
+### Report pages and data model
 [screenshots](https://drive.google.com/drive/folders/1G1aoSWP5jX_ZLP0VyOFDvnhu3joPhowN?usp=drive_link)
 
 ## Key Features
